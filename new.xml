@@ -1,0 +1,9 @@
+<person>
+            <name>Olia</name>
+	<patronymic>Leonidovna</patronymic>
+	<surname>Radyvaniuk</surname>
+	<age>32</age>
+	<pets null=”true”
+	<salary>600$</salary>
+</person>
+
