@@ -1,0 +1,61 @@
+<skills>
+	<theory>
+                             <theory>тестирование</theory>
+		 <theory>багрепорты</theory>
+	               <theory>документация</theory>
+		 <theory>направления_тестирования</theory>
+	               <theory>SDLC</theory>
+	               <theory>STLS<t/heory>
+              </theory>
+	<server>
+                               <server>серверная_архитектура</server>
+                                <server>методы_запросов</server>
+                                <server>ответы</server>
+                                <server>стуктуры_запросов-ответов</server>
+               </server>
+
+	<formats>
+                                <format>JSON</format>
+                                <format>XML</format>
+              </formats>
+
+	<programs>
+                                <program>postman</program>
+	                  <program>fiddler</program>
+	                  <program>charles</program>
+		    <program>python</program>
+              </programs>
+	<VPN>
+                                 <VPN>как работает</VPN>
+	                   <VPN>зачем_нужен</VPN>
+		     <VPN>как_использовать</VPN>
+		     <VPN>варианты_инструментов</VPN>
+                 </VPN>
+	<Dev_Tools>
+                                <Dev_Tools>Google_Chrome</Dev_Tools>
+		    <Dev_Tools>FireFox</Dev_Tools>
+                </Dev_Tools>
+	  <mobile testing>
+                                  <mobile_testing>iOS<mobile_testing>
+	                   <mobile_testing>Android<mobil_testing>
+                  </mobile_testing>
+	    <command_lines>
+                                  <command_line>terminal<command_line>
+		     <command_line>linux</command_line>
+		     <command_line>bush</command_line>
+                   </command_lines>
+	     <SQL>
+                                  <SQL>create</SQL>
+                                  <SQL>delete</SQL>
+		     <SQL>drop</SQL>
+		     <SQL>insert_into</SQL>
+		     <SQL>select</SQL>
+		     <SQL>from</SQL>
+		     <SQL>join</SQL>
+             </SQL>
+             <other>
+                                 <other>Git</other>
+		     <other>Jmeter</other>
+		    <other>Scrum</other>
+               </other>
+       </skills>

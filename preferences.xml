@@ -1,0 +1,14 @@
+<my_preferences>
+	<film>Harry_Potter</film>
+	 <series>Trigger</series>
+	 <food>
+                            <food>pizza</food>
+		<food>pancakes</food>
+		<food>cutlets</food>
+		<food>cake</food>
+		<food>apple</food>
+                 </food>
+	   <season>summer</season>
+	   < country>Spain</country>
+</my_preferences>
+
