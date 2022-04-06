@@ -1,8 +1,8 @@
 <Bug report>
     <Summary>New Comment Page-Active check box is checked in by default</Summary>
     <Steps to reproduce>
-                  <Step to reproduce>Log in to app</Step to reproduce>
-                  <Step to reproduce>Click on “New” link</Step to reproduce>
+                  <Step to reproduce1>Log in to app</Step to reproduce1>
+                  <Step to reproduce2>Click on “New” link</Step to reproduce2>
      </Steps to reproduce>
     <Actual result>”Active” checkbox is checked in by default</Actual result>
     <Expected result>Active check box should be disabled by default</Expected result>
