@@ -1,61 +1,61 @@
 <skills>
 	<theory>
-                             <theory>тестирование</theory>
-		 <theory>багрепорты</theory>
-	               <theory>документация</theory>
-		 <theory>направления_тестирования</theory>
-	               <theory>SDLC</theory>
-	               <theory>STLS<t/heory>
+                             <theory1>тестирование</theory1>
+		 <theory2>багрепорты</theory2>
+	               <theory3>документация</theory3>
+		 <theory4>направления_тестирования</theory4>
+	               <theory5>SDLC</theory5>
+	               <theory6>STLS</theory6>
               </theory>
 	<server>
-                               <server>серверная_архитектура</server>
-                                <server>методы_запросов</server>
-                                <server>ответы</server>
-                                <server>стуктуры_запросов-ответов</server>
+                               <server1>серверная_архитектура</server1>
+                                <server2>методы_запросов</server2>
+                                <server3>ответы</server3>
+                                <server4>стуктуры_запросов-ответов</server4>
                </server>
 
 	<formats>
-                                <format>JSON</format>
-                                <format>XML</format>
+                                <format1>JSON</format1>
+                                <format2>XML</format2>
               </formats>
 
 	<programs>
-                                <program>postman</program>
-	                  <program>fiddler</program>
-	                  <program>charles</program>
-		    <program>python</program>
+                                <program1>postman</program1>
+	                  <program2>fiddler</program2>
+	                  <program3>charles</program3>
+		    <program4>python</program4>
               </programs>
 	<VPN>
-                                 <VPN>как работает</VPN>
-	                   <VPN>зачем_нужен</VPN>
-		     <VPN>как_использовать</VPN>
-		     <VPN>варианты_инструментов</VPN>
+                                 <VPN1>как работает</VPN1>
+	                   <VPN2>зачем_нужен</VPN2>
+		     <VPN3>как_использовать</VPN3>
+		     <VPN4>варианты_инструментов</VPN4>
                  </VPN>
 	<Dev_Tools>
-                                <Dev_Tools>Google_Chrome</Dev_Tools>
-		    <Dev_Tools>FireFox</Dev_Tools>
+                                <Dev_Tools1>Google_Chrome</Dev_Tools1>
+		    <Dev_Tools2>FireFox</Dev_Tools2>
                 </Dev_Tools>
 	  <mobile testing>
-                                  <mobile_testing>iOS<mobile_testing>
-	                   <mobile_testing>Android<mobil_testing>
+                                  <mobile_testing1>iOS<mobile_testing1>
+	                   <mobile_testing2>Android<mobil_testing2>
                   </mobile_testing>
 	    <command_lines>
-                                  <command_line>terminal<command_line>
-		     <command_line>linux</command_line>
-		     <command_line>bush</command_line>
+                                  <command_line1>terminal<command_line1>
+		     <command_line2>linux</command_line2>
+		     <command_line3>bush</command_line3>
                    </command_lines>
 	     <SQL>
-                                  <SQL>create</SQL>
-                                  <SQL>delete</SQL>
-		     <SQL>drop</SQL>
-		     <SQL>insert_into</SQL>
-		     <SQL>select</SQL>
-		     <SQL>from</SQL>
-		     <SQL>join</SQL>
+                                  <SQL1>create</SQL1>
+                                  <SQL2>delete</SQL2>
+		     <SQL3>drop</SQL3>
+		     <SQL4>insert_into</SQL4>
+		     <SQL5>select</SQL5>
+		     <SQL6>from</SQL6>
+		     <SQL7>join</SQL7>
              </SQL>
              <other>
-                                 <other>Git</other>
-		     <other>Jmeter</other>
-		    <other>Scrum</other>
+                                 <other1>Git</other1>
+		     <other2>Jmeter</other2>
+		    <other3>Scrum</other3>
                </other>
        </skills>
