@@ -3,10 +3,10 @@
 	 <series>Trigger</series>
 	 <food>
                             <food>pizza</food>
-		<food>pancakes</food>
-		<food>cutlets</food>
-		<food>cake</food>
-		<food>apple</food>
+		<food1>pancakes</food1>
+		<food2>cutlets</food2>
+		<food3>cake</food3>
+		<food4>apple</food4>
                  </food>
 	   <season>summer</season>
 	   < country>Spain</country>
